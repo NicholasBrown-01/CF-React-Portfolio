@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm Nicholas Brown. Thank you for taking the time to review my portfolio. I have nearly two decades of professional leadership, a background in technology through being a Flight Engineer and Helicopter Pilot. Please let me know if you have any questions by contacting me though any of the ways on this site.",
+      "description": "I'm Nicholas Brown. Thank you for taking the time to review my portfolio. I have nearly two decades of professional leadership as well as a background in technology through being a Flight Engineer and Helicopter Pilot. Please let me know if you have any questions by contacting me though any of the ways on this site.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,70 +11,87 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Code 301 Final Project",
+        "startDate": "2023",
+        "description": "Placeholder for Code 301 Final Project",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/301FinalProject/ComingSoon.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Qode Quiz",
+        "startDate": "2023",
+        "description": "A coding quiz developed as a team project that was heavily inspired by The Matrix since our team member was a look alike!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/201FinalProject/Matrix.jpg",
+          "images/portfolio/201FinalProject/201Project1.png"
         ],
         "url": "https://github.com/NicholasBrown-01",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "level": "70"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "A webpage featuring a dynamic table in which the user can add a custome city and data selectable from a drop down menu",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/SalmonCookies/201DataTable1.png",
+          "images/portfolio/SalmonCookies/201DataTable2.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
           }
         ]
       }
