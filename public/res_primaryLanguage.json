@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "I'm Nicholas Brown. Thank you for taking the time to review my portfolio. I have nearly two decades of professional leadership, a background in technology through being a Flight Engineer and Helicopter Pilot. Please let me know if you have any questions by contacting me though any of the ways on this site.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/NicholasBrown-01",
         "technologies": [
           {
             "class": "devicon-react-original",
